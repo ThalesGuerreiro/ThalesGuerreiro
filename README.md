@@ -5,7 +5,6 @@ Gosto de entender como as coisas funcionam por baixo dos panos — desde gerenci
 
 ## Áreas de interesse
 
-* Programação de baixo nível
 * Estruturas de dados e algoritmos
 * Desenvolvimento backend e fullstack
 * Sistemas operacionais
