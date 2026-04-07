@@ -17,7 +17,6 @@ Gosto de entender como as coisas funcionam por baixo dos panos — desde gerenci
 
 ## Contato
 
-* GitHub: https://github.com/ThalesGuerreiro
 * Email: thalesguerreiroc@gmail.com
 
 ---
